@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/tmdals9974/studyNodeServer#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
     "express": "^4.17.1",
-    "nodemon": "^2.0.4"
+    "request": "^2.88.2"
   }
 }
